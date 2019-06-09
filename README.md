@@ -1,6 +1,9 @@
 # bmi
 
 A new Flutter project.
+An app to calculate BMI of anyone and tells in which category you fall in.
+![BMI](https://user-images.githubusercontent.com/42516515/59157171-b61b2980-8ac3-11e9-81c3-e879399e9541.PNG)
+
 
 ## Getting Started
 
